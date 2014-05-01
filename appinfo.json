@@ -1,0 +1,20 @@
+{
+  "uuid": "9714183f-8ec7-44d4-bfbd-d4aef579b14c",
+  "shortName": "BookWatch",
+  "longName": "BookWatch",
+  "companyName": "Bobesa",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "resources": {
+    "media": [
+		{
+			"type": "font",
+			"name": "FONT_BRANKOVIC_40",
+			"file": "fonts/brankovic.ttf"
+		}
+	]
+  }
+}
