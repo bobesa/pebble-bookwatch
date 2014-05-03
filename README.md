@@ -17,6 +17,8 @@ in `appinfo.json` file
 Build & Deploy
 ==============
 
+You will need [Pebble SDK](https://developer.getpebble.com/) for building and deploying
+
 ```bash
  $ pebble build
  $ pebble install --phone PHONE_IP
